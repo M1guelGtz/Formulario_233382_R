@@ -1,0 +1,36 @@
+#datos_Empresa{
+    width: 51%;
+    box-shadow: 5px 5px 7px 0 black;
+    -webkit-box-shadow: 5px 5px 7px gray;
+    -moz-box-shadow: 5px 5px 7px black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    background-color: #00000054;
+}   
+#Cards_Registro{
+    width: 51%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-flow: column;
+    box-sizing: border-box;
+    
+}
+#contenedor_Datos{
+    width: 75%;
+    margin: 20px;
+    box-shadow: 5px 5px 7px 0 black;
+    -webkit-box-shadow: 5px 5px 7px gray;
+    -moz-box-shadow: 5px 5px 7px black;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    background-color: #00000054;
+    padding: 5px;
+}
+span{
+    display: block;
+    font-size: 22px;
+    font-family: sans-serif;
+}

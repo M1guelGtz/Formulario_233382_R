@@ -1,0 +1,8 @@
+#cardLabel{
+    width: 70%; 
+    margin: 15px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border-radius: 50px;
+}
